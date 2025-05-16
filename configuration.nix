@@ -108,6 +108,7 @@
     font-awesome
     papirus-icon-theme
     power-profiles-daemon
+    obsidian
   ];
 
   services.power-profiles-daemon.enable = true;
