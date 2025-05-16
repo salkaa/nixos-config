@@ -86,7 +86,7 @@
     git
     gnumake
     gcc
-    light
+    brightnessctl
     neofetch
     zathura
     spotify
